@@ -1,1 +1,3 @@
-Hello World
+function helloWorld = () => {
+    console.log('helloWorld')
+}
